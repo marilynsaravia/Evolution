@@ -8,5 +8,11 @@ Evolution comenzó como mi **proyecto de fin de ciclo para la carrera en Desarro
 
 Evolution es un gestor de proyectos de fin de grado diseñado para estudiantes y docentes. La plataforma permite a los estudiantes visualizar el progreso de las tareas asignadas por su docente y consultar las sesiones de tutoría. Los docentes pueden asignar tareas específicas, como 'Portada', 'Bibliografía' y otros hitos importantes, y supervisar el avance de los estudiantes. Los estudiantes pueden marcar las tareas completadas en una lista de verificación, facilitando el seguimiento de su progreso. 
 
+# Captura de pantalla
+
+![evolution](https://github.com/user-attachments/assets/a1a4d7ef-c03b-42ff-b422-533f90229f24)
+
+![Evolution2](https://github.com/user-attachments/assets/cb9682c5-d2c6-4e31-a793-3b1fa5cf5df5)
+
 # Autora
 :v: [@marilynsaravia](https://github.com/marilynsaravia)
