@@ -1,6 +1,6 @@
 # Evolution 
 
-La aplicación está en **fase de mejora** ya que, anteriormente, no se utilizó ningún framework. Ahora, estoy incorporando **Angular** para el frontend y **Laravel** para el backend, con el objetivo de optimizar la eficiencia de la plataforma y ofrecer una experiencia más completa, además incluirá nuevas funcionalidades y optimizaciones.
+La aplicación está en **fase de mejora** ya que, anteriormente, no se utilizó ningún framework. Ahora, estoy incorporando **Angular** para el frontend y **Symfony** para el backend, con el objetivo de optimizar la eficiencia de la plataforma y ofrecer una experiencia más completa, además incluirá nuevas funcionalidades y optimizaciones.
 
 Evolution comenzó como mi **proyecto de fin de ciclo para la carrera en Desarrollo de Aplicaciones Web**, y fue realizado para mi defensa y obtención de mi título como Desarrolladora de Aplicaciones Web. En esa fase inicial, la aplicación fue desarrollada sin el uso de frameworks.
 
