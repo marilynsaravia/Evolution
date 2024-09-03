@@ -10,9 +10,9 @@ Evolution es un gestor de proyectos de fin de grado diseñado para estudiantes y
 
 # Captura de pantalla
 
-![evolution](https://github.com/user-attachments/assets/a1a4d7ef-c03b-42ff-b422-533f90229f24)
+![login](https://github.com/user-attachments/assets/ef613726-5486-4dc7-bf31-02290d422027)
+![signup](https://github.com/user-attachments/assets/5fbfc7be-88b3-4384-a77e-a0b9efc151a6)
 
-![Evolution2](https://github.com/user-attachments/assets/cb9682c5-d2c6-4e31-a793-3b1fa5cf5df5)
 
 # Autora
 :v: [@marilynsaravia](https://github.com/marilynsaravia)
